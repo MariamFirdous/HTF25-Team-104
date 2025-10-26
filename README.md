@@ -157,17 +157,6 @@ SnapChef/
 
 ---
 
-## 🎨 Screenshots
-
-> Add your app screenshots here once available
-
-```markdown
-| Home Screen | Recipe List | Cooking Steps |
-|------------|-------------|---------------|
-| ![Home](screenshots/home.png) | ![Recipes](screenshots/recipes.png) | ![Steps](screenshots/steps.png) |
-```
-
----
 
 ## 🔧 Configuration
 
